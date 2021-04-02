@@ -1,6 +1,6 @@
 # Mastering "Chutes and Ladders"
 This repository contains partion of the code for experiments in the paper
-"Back to Square One: Superhuman Performance in Chutes and Ladders Through Deep Neural Networks and Tree Search".
+"Back to Square One: Superhuman Performance in Chutes and Ladders Through Deep Neural Networks and Tree Search" (available [here](http://sigbovik.org/2021/proceedings.pdf#page=8)).
 
 Unfortunately, rest of our experiment code is deeply connected to private codebases and our bosses were not happy to share it, so we only include the open source parts of it.
 
